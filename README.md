@@ -3,6 +3,13 @@
 Hi! I am Simen Klemp and im studying engineering of computer sience at NTNU
 
 ### Reach out!
+<p align="left" dir="auto">
+<a href="https://twitter.com/rexpatex" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rexpatex" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/simen-klemp-petersen-b684411ba/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magnusrosvoldfarstad" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://fb.com/magnus.farstad" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.farstad" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/farstad99" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farstad99" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.leetcode.com/magnusrf" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="magnusrf" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 
 ### Language and tools
