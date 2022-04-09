@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im studying Engineering of Computer Sience at NTNU Trondheim :norwe
+Im studying Engineering of Computer Sience at NTNU Trondheim
 - Currently at my 4th semester
 
 ## Reach out! 🌍
