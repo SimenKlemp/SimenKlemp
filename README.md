@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hi! I am Simen Klemp and im studying engineering of computer sience at NTNU
+Im studying Engineering of Computer Sience at NTNU Trondheim :norwe
+- Currently at my 4th semester
 
 ## Reach out! 🌍
 <p align="left" dir="auto">
