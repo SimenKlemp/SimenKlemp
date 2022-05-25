@@ -25,7 +25,7 @@ Im studying Engineering of Computer Sience at NTNU Trondheim
 
 
 
-### Stats 🔥
+## Stats 🔥
 
 [![SimenKlemps GitHub stats](https://github-readme-stats.vercel.app/api?username=SimenKlemp&theme=gruvbox)](https://github.com/simenklemp/github-readme-stats)
 
